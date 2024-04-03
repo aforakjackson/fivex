@@ -1,0 +1,1 @@
+FiveXpy es una herramienta de análisis sobre servidores de Fivem. Para utilizar esta herramienta necesitarás los paquetes 'colorama', 'fivempy' y 'sys'. Para introducir la IP del servidor al que conectarte necesitarás introducirla desde el código hasta la próxima actualización.
